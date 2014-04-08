@@ -5,6 +5,7 @@ standard library.
 
 ## Install instructions
 
+1. Install Compiling Tools ex. on ubuntu apt-get install build-essential
 1. Install python if it isn't already available on your OS of choice
 1. Install the easy_install tool (`sudo apt-get install python-setuptools`
 for Debian/Ubuntu)
