@@ -5,8 +5,8 @@ standard library.
 
 ## Install instructions
 
-1. Install Compiling Tools ex. on ubuntu apt-get install build-essential
-1. Install python with dev packages ex. ubuntu apt-get install "python python-dev" if it isn't already available
+1. Install Compiling Tools (`apt-get install build-essential` on Debian/Ubuntu)
+1. Install python with dev packages (`apt-get install python python-dev` on Debian/Ubuntu) if it isn't already
 1. Install the easy_install tool (`sudo apt-get install python-setuptools`
 for Debian/Ubuntu)
 1. Install the python package manager, `pip` (`easy_install pip`)
